@@ -1,0 +1,2 @@
+# MINDRA_INV_RS232_V3.1
+For 300 Nos.
